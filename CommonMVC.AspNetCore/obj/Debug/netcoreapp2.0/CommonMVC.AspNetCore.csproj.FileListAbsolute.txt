@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Mercurial\CommonMVC.AspNetCore\CommonMVC.AspNetCore\bin\Debug\netcoreapp2.0\Codenesium.CommonMVC.AspNetCore.deps.json
+C:\Users\Administrator\Documents\Mercurial\CommonMVC.AspNetCore\CommonMVC.AspNetCore\bin\Debug\netcoreapp2.0\Codenesium.CommonMVC.AspNetCore.dll
+C:\Users\Administrator\Documents\Mercurial\CommonMVC.AspNetCore\CommonMVC.AspNetCore\obj\Debug\netcoreapp2.0\CommonMVC.AspNetCore.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Mercurial\CommonMVC.AspNetCore\CommonMVC.AspNetCore\obj\Debug\netcoreapp2.0\CommonMVC.AspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Mercurial\CommonMVC.AspNetCore\CommonMVC.AspNetCore\obj\Debug\netcoreapp2.0\CommonMVC.AspNetCore.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Mercurial\CommonMVC.AspNetCore\CommonMVC.AspNetCore\obj\Debug\netcoreapp2.0\CommonMVC.AspNetCore.AssemblyInfo.cs
